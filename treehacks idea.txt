@@ -1,0 +1,29 @@
+-educational (big o)
+-simulation (rene's classroom simulator)
+	-while he teaches (he randomly askes you the definition of big o)
+	-also asks other data structure-related questions
+
+data structures:
+-stacks
+	-play a stack simulator
+	-can stack stuff (only from the top)
+	-if you try anything else rene gets mad at you
+-data types and how many bytes they have
+	-entering a number in blank? or keypad idk
+-analyzing run times
+	-tips on identifying/how long it takes to run
+	-match up game
+-little o, big o, big omega, little omega, omega
+-arrays
+-algorithm, run time, abstract data types
+
+-add irl applications of the data types
+
+
+-rough cartoon style? idk?
+
+-add cute music/sound effects
+	-looks at old fnaf project to see how to complete
+
+-dialogue? make letters come in one by one? (look up cause idk how to do that)
+
